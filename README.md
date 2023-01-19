@@ -10,18 +10,18 @@ This project gave me real hands on experience on mobile developing. It was done 
 It also gave me perspective on how much is going on in the background even in really simple app like this.
 
 # Photos
-Here is homescreen with medications to take on monday.
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Homescreen_Monday.PNG"  width="280">
 
-Here is homescreen with medications to take on tuesday.
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Homescreen_Tuesday.PNG"  width="280">
+![Here is homescreen with medications to take on monday.]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Homescreen_Monday.PNG"  width="280">
 
-Here is view when you add medicine.
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Add_med.PNG"  width="280">
 
-Here is list of all medications.
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/All_view.PNG"  width="280">
+![Here is homescreen with medications to take on tuesday.]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Homescreen_Tuesday.PNG"  width="280">
 
-Here is notification that you get.
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Notification.PNG"  width="280">
+
+![Here is view when you add medicine.]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Add_med.PNG"  width="280">
+
+
+![Here is list of all medications.]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/All_view.PNG"  width="280">
+
+
+![Here is notification that you get.]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Notification.PNG"  width="280">
 
