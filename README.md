@@ -12,21 +12,21 @@ It also gave me perspective on how much is going on in the background even in re
 # Photos
 Here is homescreen with medications to take on monday.
 <br>
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Homescreen_Monday.PNG"  width="280">
+![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Homescreen_Monday.PNG"  width="200">
 
 Here is homescreen with medications to take on tuesday.
 <br>
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Homescreen_Tuesday.PNG"  width="280">
+![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Homescreen_Tuesday.PNG"  width="200">
 
 Here is view when you add medicine.
 <br>
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Add_med.PNG"  width="280">
+![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Add_med.PNG"  width="200">
 
 Here is list of all medications.
 <br>
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/All_view.PNG"  width="280">
+![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/All_view.PNG"  width="200">
 
 Here is notification that you get.
 <br>
-![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Notification.PNG"  width="280">
+![]() <img src="https://github.com/JosiaOrava/MedManager/blob/main/images/Notification.PNG"  width="200">
 
